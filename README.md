@@ -16,6 +16,14 @@ git bash code
 folder
 
 ![image](https://github.com/Punit90541110263/mtm6302-capstone-punit90541110263/assets/133889264/52ff928a-30f0-4bfa-9d89-ecf5145b7136)
+adobe xd prototype 
+ web view 
+ ![image](https://github.com/user-attachments/assets/3105163f-5fe1-4ebd-a38a-fec4d1fa3a4e)
+ i phone view
+ ![image](https://github.com/user-attachments/assets/d9a54a81-5aaa-4d66-8745-f9018e46224b)
+tablet view
+![image](https://github.com/user-attachments/assets/4980994c-b17f-4cee-b1c1-7d19ddb52f8c)
+
 
 thank you 
 

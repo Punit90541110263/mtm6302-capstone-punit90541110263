@@ -17,6 +17,10 @@ folder
 
 ![image](https://github.com/Punit90541110263/mtm6302-capstone-punit90541110263/assets/133889264/52ff928a-30f0-4bfa-9d89-ecf5145b7136)
 
+ final output 
+ ![image](https://github.com/user-attachments/assets/0803cefb-5431-466f-ac41-817702da5c78)
+
+
 thank you 
 
 
